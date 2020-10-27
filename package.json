@@ -1,0 +1,24 @@
+{
+  "name": "simple-api-mariadb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casperpanduro/simple-express-api-mariadb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casperpanduro/simple-express-api-mariadb/issues"
+  },
+  "homepage": "https://github.com/casperpanduro/simple-express-api-mariadb#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.17.1",
+    "mariadb": "^2.5.1"
+  }
+}
