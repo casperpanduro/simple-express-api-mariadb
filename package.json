@@ -18,6 +18,7 @@
   "homepage": "https://github.com/casperpanduro/simple-express-api-mariadb#readme",
   "dependencies": {},
   "devDependencies": {
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "mariadb": "^2.5.1"
   }
