@@ -17,7 +17,7 @@ app.get('/people', async (req, res) => {
         var rows = await conn.query(query);
 
         // return the results
-        res.send(rows);
+        res.json(rows);
     } catch (err) {
         throw err;
     } finally {
